@@ -2,7 +2,7 @@
 
 ### Estudiante de Ingeniería en Sistemas de Información | Desarrollador Full Stack
 
-¡Bienvenido a mi perfil! Soy estudiante de tercer año de Ingeniería y llevo un año especializándome en desarrollo web. Mi enfoque actual está en construir arquitecturas escalables utilizando **Next.js** para el frontend y profundizando en **NestJS** para el backend, apoyándome en la contenedorización con **Docker**.
+¡Bienvenido a mi perfil! Soy estudiante de tercer año de Ingeniería y llevo más dos años especializándome en desarrollo web. Mi enfoque actual está en construir arquitecturas escalables utilizando **Next.js** para el frontend y profundizando en **NestJS** para el backend, apoyándome en la contenedorización con **Docker**.
 
 ---
 
